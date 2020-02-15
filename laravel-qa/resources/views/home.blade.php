@@ -11,6 +11,8 @@
                     @if (session('status'))
                         <div class="alert alert-success" role="alert">
                             {{ session('status') }}
+
+                            <h1>hey akash</h1>
                         </div>
                     @endif
 
